@@ -1,0 +1,6 @@
+{
+  "name": "Resume Roast AI",
+  "description": "Your resume. Roasted by a recruiter. Fixed by AI. Senior recruiter feedback, ATS readiness, JD matching, and actionable rewrites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
